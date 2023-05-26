@@ -18,9 +18,7 @@ public class Anubis extends AdvancedRobot {
         setAdjustRadarForRobotTurn(true);
         setAdjustGunForRobotTurn(true);
 
-        while (true) {
-            turnRadarRight(360);
-        }
+        while (true) turnRadarRight(360);
     }
 
     public void onScannedRobot(ScannedRobotEvent event) {
