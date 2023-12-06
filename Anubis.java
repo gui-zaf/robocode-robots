@@ -2,8 +2,6 @@
 
 // Criado por: 
 // Guilherme Campos Ferraz 
-// Isabela Ferreira
-// Isabela Targino
 // Fatec - Itaquera | DSM 1°Semestre
 
 package competicao;
